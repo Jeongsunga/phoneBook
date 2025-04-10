@@ -1,70 +1,22 @@
-# Getting Started with Create React App
+### 유저 스토리
+<img width="1294" alt="Image" src="https://github.com/user-attachments/assets/5aa4a09c-2e32-4972-bcef-f4ca106317af" />
+1. 연락처(이름과 전화번호)를 만들 수 있다.
+2. 연락처 리스트가 보인다.
+3. 연락처 추가 후에도 바로 리스트가 업데이트가 된다.
+4. 연락처를 이름으로 검색할 수 있다.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### 추가 기능
+<img width="1299" alt="Image" src="https://github.com/user-attachments/assets/58058c52-6a35-4ffe-bd2f-a3fb14a73c26" />
+1. 연락처 입력 시 사진을 넣을 수 있다.
 
-## Available Scripts
+<img width="1289" alt="Image" src="https://github.com/user-attachments/assets/1ac66d87-9664-4c3f-a6ba-17fee043c8bc" />
+2. 연락처를 추가한 후 생성된 연락처가 리스트에 보이고, 빈 입력창 처리된다.
 
-In the project directory, you can run:
+<img width="1284" alt="Image" src="https://github.com/user-attachments/assets/eed6b0e3-2a5c-4712-84af-7326e6ec0d2e" />
+3. 전화번호가 010으로 시작하는 11자리여야 한다.
 
-### `npm start`
+<img width="1277" alt="Image" src="https://github.com/user-attachments/assets/875554e3-c3c4-403d-859e-deeac6119703" />
+4. 사진을 넣지 않으면 기본 프로필이 들어간다.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+<img width="1297" alt="Image" src="https://github.com/user-attachments/assets/dc898e4b-dae5-4386-a779-29efb4313530" />
+5. 이름 외에도 전화번호로 검색할 수 있다.
