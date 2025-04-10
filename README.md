@@ -1,8 +1,11 @@
 ### 유저 스토리
 <img width="1294" alt="Image" src="https://github.com/user-attachments/assets/5aa4a09c-2e32-4972-bcef-f4ca106317af" />
 1. 연락처(이름과 전화번호)를 만들 수 있다.
+
 2. 연락처 리스트가 보인다.
+
 3. 연락처 추가 후에도 바로 리스트가 업데이트가 된다.
+
 4. 연락처를 이름으로 검색할 수 있다.
 
 ### 추가 기능
@@ -20,5 +23,6 @@
 
 <img width="1297" alt="Image" src="https://github.com/user-attachments/assets/dc898e4b-dae5-4386-a779-29efb4313530" />
 5. Enter키를 누르면 이름 외에도 전화번호로 검색할 수 있다.
+
 6. 필터링 후 검색창은 비게 되며 전체보기 버튼이 보인다. 전체보기 버튼을 누를 시 전체 연락처가 보이게 된다.
 
